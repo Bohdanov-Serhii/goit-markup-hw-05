@@ -568,6 +568,9 @@ img {
 .portfolio-list-link:hover .portfolio-list-overlay {
   transform: translateY(0);
 }
+.portfolio-list-link:focus .portfolio-list-overlay {
+  transform: translateY(0);
+}
 
 .portfolio-list-link:hover,
 .portfolio-list-link:focus {
